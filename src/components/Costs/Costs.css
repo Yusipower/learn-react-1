@@ -1,0 +1,8 @@
+.costs {
+	display: flex;
+	flex-direction: column;
+	row-gap: 1rem;
+	padding: 2rem;
+	background-color: #f4f4f4;
+	border-radius: 1rem;
+}
